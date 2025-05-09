@@ -61,6 +61,58 @@ This dashboard focuses on a more detailed analysis of net profit.
    - Follow the provided steps to create the visualizations and set up the slicers and toggle buttons.
 5. **Interact with the Dashboards**: Use the slicers and toggle buttons to explore the data and gain insights.
 
+This project focuses on analyzing and visualizing e-commerce sales data to derive actionable business insights. It demonstrates practical skills in SQL, Excel, and Power BI—covering the full data analysis workflow from data extraction to interactive dashboards.
+
+---
+
+## 📌 Objective
+
+To analyze e-commerce sales data and uncover trends, patterns, and key metrics that can help improve business decision-making. The project involves:
+
+- Data cleaning and transformation
+- Writing complex SQL queries
+- Creating visual reports using Excel and Power BI
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **SQL** – for data extraction and transformation
+- **Microsoft Excel** – for pivot tables and basic visualization
+- **Power BI** – for advanced data visualization and dashboarding
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+E-Commerce-Data-Analytics/
+├── Dataset/
+│   └── [CSV or Excel data files]
+├── SQL Queries/
+│   └── queries.sql
+├── Excel Analysis/
+│   └── sales_dashboard.xlsx
+├── Power BI/
+│   └── ecommerce_dashboard.pbix
+└── README.md
+
+📈 Key Insights
+Some of the business questions answered in this project:
+What is the monthly sales trend?
+Which product categories generate the most revenue?
+Who are the top-performing customers and regions?
+What is the contribution of each sales channel (e.g., website vs mobile)?
+
+🔍 Sample Visuals
+Sales trend over time
+Top 10 products by revenue
+Regional sales distribution
+Customer segmentation analysis
+
+## Credits
+Original project by [Pradeesh Rajakumar](https://github.com/pradeeshculer/E-Commerce-Analysis).  
+This version was modified and restructured by [Mohammed-Sharuk] for learning and portfolio purposes.
 
 ## Conclusion
 This project showcases the use of SQL, Excel, and Power BI to analyze and visualize e-commerce data effectively. The insights derived can help in making informed business decisions.
